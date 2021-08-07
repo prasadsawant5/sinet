@@ -1,0 +1,6 @@
+logs/*
+__pycache__
+saved_models/*
+data/*
+*.npy
+*.npz
